@@ -1,16 +1,38 @@
-# payhackfinovators
+<div align="center">
+  <h1 align="center">Finovators - PayHack 2023</h1>
+  <p><b>Senang2Pay</b> : Making e-payments available offline</p>  
+</div>
 
-A new Flutter project.
+<br />
 
-## Getting Started
+## Group Member
+* [Lim Chin Feng](https://www.linkedin.com/in/lim-chin-feng/)
+* [Gwee Per Ming](https://linkedin.com/in/gwee-per-ming/)
+* [Looi Wei En](https://www.linkedin.com/in/looi-wei-en/)
+* [Angel Ang](http://linkedin.com/in/angel-ang-7b3382221)
+* [Lee Ying Hooi](https://www.linkedin.com/in/%CA%8F%C9%A6-%CA%9F%C9%9B%C9%9B-82b55b225)
 
-This project is a starting point for a Flutter application.
+<br />
 
-A few resources to get you started if this is your first Flutter project:
+### Steps to run the prototype
+1. clone the repository
+  ```sh
+git clone https://github.com/limchinfeng/payhack_12.git
+  ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. run flutter
+ ```sh
+flutter doctor 
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br/> 
+We are using Android Studio for the phone emulator. If you are facing diffucuties, you may refer to the [online documentation](https://docs.flutter.dev/) or ping me.
+
+<br/> 
+
+### Built With
+* [![Dart][Dart.js]][Dart-url]
+
+
+[Dart.js]: https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white
+[Dart-url]: https://dart.dev/
